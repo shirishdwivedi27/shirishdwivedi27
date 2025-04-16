@@ -1,6 +1,6 @@
 ## Hi 👋
 
-![My Animation](https://github.com/shirishdwivedi27/shirishdwivedi27/blob/main/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2006_12_15%20PM.png)
+![My Animation]([https://github.com/shirishdwivedi27/shirishdwivedi27/blob/main/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2006_12_15%20PM.png](https://github.com/shirishdwivedi27/shirishdwivedi27/blob/main/neww.png))
 
 
 - 🔭 I’m currently working on as a Software Developer
