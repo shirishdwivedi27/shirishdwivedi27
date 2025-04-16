@@ -10,7 +10,7 @@ ________________________________________________________________________________
             - LCS (ASE) 👑
             - Neptune (SDE) 👑
 __________________________________________________________________________________________________________________________________________________
-                                                                🏆🏆 Coding Platforms: 🏆🏆
+                                  🏆🏆 Coding Platforms: 🏆🏆
 
 [Linkedin](https://www.linkedin.com/in/shirish-dwivedi-8975131a0/) ➡️ ➡️  🏆 [Leetcode](https://leetcode.com/u/shirish27/)  🏆
     🏆 [Codeforces](https://codeforces.com/profile/shirish27) 🏆
