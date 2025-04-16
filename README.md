@@ -5,11 +5,16 @@
 _________________________________________________________________________________________________________________________________________________________
                                                                 🏆 Coding Platforms: 🏆
 
-[Linkedin](https://www.linkedin.com/in/shirish-dwivedi-8975131a0/)  [Leetcode](https://leetcode.com/u/shirish27/)👣
+[Linkedin](https://www.linkedin.com/in/shirish-dwivedi-8975131a0/) ➡️ ➡️   [Leetcode](https://leetcode.com/u/shirish27/)👣
      [Codeforces](https://codeforces.com/profile/shirish27)👣
       [GFG](https://www.geeksforgeeks.org/user/shirish27/)👣
    [codechef](https://www.codechef.com/users/shirish27)👣
-
+____________________________________________________________________________________________________________________________________________________________
+           --> 🧑‍💻 Cracked interviews of:
+                - Accenture (ASE)
+                - TCS (SE)
+                - LCS (SE)
+                - Neptune (SDE)
 
 
 
