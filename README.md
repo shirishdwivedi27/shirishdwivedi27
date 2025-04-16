@@ -1,13 +1,14 @@
 ## HEllO WORLD  👋👋
 
-![My Animation](https://github.com/shirishdwivedi27/shirishdwivedi27/blob/main/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2006_12_15%20PM.png)
+![My Animation](https://github.com/shirishdwivedi27/shirishdwivedi27/blob/main/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2006_12_15%20PM.png)  👑👑
+
 
 ____________________________________________________________________________________________________________________________________________________________
     --> 🧑‍💻 Cracked interviews of:
-            - Accenture (ASE)
-            - TCS (SE)
-            - LCS (ASE)
-            - Neptune (SDE)
+            - Accenture (ASE) 👑
+            - TCS (SE) 👑
+            - LCS (ASE) 👑
+            - Neptune (SDE) 👑
 __________________________________________________________________________________________________________________________________________________
                                                                 🏆🏆 Coding Platforms: 🏆🏆
 
@@ -17,15 +18,16 @@ ________________________________________________________________________________
   🏆 [codechef](https://www.codechef.com/users/shirish27) 🏆
 
 ____________________________________________________________________________________________________________________________________________________
-                                 
+                                                __SUMMARY__.py 
 - 🔭 I’m currently working on as a Software Developer
 - 🌱 I’m currently learning Ethical hacking , networking
 - 💬 Ask me about my repo's, my daily activities n all.
 - 📫 How to reach me: shirishdivedi951@gmail.com
 ______________________________________________________________________________________________________________________________________________________
                                                      ♦ ♦ - LIVE PROJECTS - ♦ ♦
-[Multiplayer_Game](https://www.coregames.com/games/89afbf/find-me)
-[Website](https://hostelget.netlify.app)
+ - [Multiplayer_Game](https://www.coregames.com/games/89afbf/find-me) 🎮🎮
+ - [Website](https://hostelget.netlify.app) 👑
+
 
 <!--
 **shirishdwivedi27/shirishdwivedi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
