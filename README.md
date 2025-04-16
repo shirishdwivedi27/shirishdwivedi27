@@ -2,19 +2,20 @@
 
 ![My Animation](https://github.com/shirishdwivedi27/shirishdwivedi27/blob/main/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2006_12_15%20PM.png)
 
-_________________________________________________________________________________________________________________________________________________________
-                                                                🏆 Coding Platforms: 🏆
-
-[Linkedin](https://www.linkedin.com/in/shirish-dwivedi-8975131a0/) ➡️ ➡️   [Leetcode](https://leetcode.com/u/shirish27/)👣
-     [Codeforces](https://codeforces.com/profile/shirish27)👣
-      [GFG](https://www.geeksforgeeks.org/user/shirish27/)👣
-   [codechef](https://www.codechef.com/users/shirish27)👣
 ____________________________________________________________________________________________________________________________________________________________
-  --> 🧑‍💻 Cracked interviews of:
-                - Accenture (ASE)
-                - TCS (SE)
-                - LCS (SE)
-                - Neptune (SDE)
+    --> 🧑‍💻 Cracked interviews of:
+            - Accenture (ASE)
+            - TCS (SE)
+            - LCS (SE)
+            - Neptune (SDE)
+__________________________________________________________________________________________________________________________________________________
+                                                                🏆🏆 Coding Platforms: 🏆🏆
+
+[Linkedin](https://www.linkedin.com/in/shirish-dwivedi-8975131a0/) ➡️ ➡️  🏆 [Leetcode](https://leetcode.com/u/shirish27/)  🏆
+    🏆 [Codeforces](https://codeforces.com/profile/shirish27) 🏆
+     🏆 [GFG](https://www.geeksforgeeks.org/user/shirish27/) 🏆
+  🏆 [codechef](https://www.codechef.com/users/shirish27) 🏆
+
 
 
 
