@@ -6,7 +6,7 @@ ________________________________________________________________________________
     --> 🧑‍💻 Cracked interviews of:
             - Accenture (ASE)
             - TCS (SE)
-            - LCS (SE)
+            - LCS (ASE)
             - Neptune (SDE)
 __________________________________________________________________________________________________________________________________________________
                                                                 🏆🏆 Coding Platforms: 🏆🏆
@@ -16,16 +16,16 @@ ________________________________________________________________________________
      🏆 [GFG](https://www.geeksforgeeks.org/user/shirish27/) 🏆
   🏆 [codechef](https://www.codechef.com/users/shirish27) 🏆
 
-
-
-
-
+____________________________________________________________________________________________________________________________________________________
+                                 
 - 🔭 I’m currently working on as a Software Developer
 - 🌱 I’m currently learning Ethical hacking , networking
 - 💬 Ask me about my repo's, my daily activities n all.
 - 📫 How to reach me: shirishdivedi951@gmail.com
-
-
+______________________________________________________________________________________________________________________________________________________
+                                                     ♦ ♦ - LIVE PROJECTS - ♦ ♦
+[Multiplayer_Game](https://www.coregames.com/games/89afbf/find-me)
+[Website](https://hostelget.netlify.app)
 
 <!--
 **shirishdwivedi27/shirishdwivedi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
